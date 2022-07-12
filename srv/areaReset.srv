@@ -1,0 +1,11 @@
+float32 x_positive
+float32 x_negative
+float32 y_positive
+float32 y_negative
+float32 z_positive
+float32 x
+float32 y
+float32 z
+bool completion
+---
+bool success

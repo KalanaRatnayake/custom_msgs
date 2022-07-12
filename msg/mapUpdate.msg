@@ -1,0 +1,6 @@
+std_msgs/Header header
+string robotName
+sensor_msgs/PointCloud2 pointcloud
+pointData position
+pointData initialPosition
+pointData initialRotation
